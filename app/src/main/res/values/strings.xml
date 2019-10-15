@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BourdePieret_tp04</string>
+    <string name="text_nom">Nom</string>
+    <string name="text_prenom">Prenom</string>
+    <string name="button_B01">B01</string>
+    <string name="button_B02">B02</string>
+    <string name="autofill_hint_nom">Neymar</string>
+    <string name="autofill_hint_prenom">Jean</string>
+
+    <string name="result_button_ok">OK</string>
+    <string name="result_hint_plainText">JsaisApp</string>
+
+    <string name="grid_button_G01">G01</string>
+    <string name="grid_button_G02">G02</string>
+    <string name="grid_button_G03">G03</string>
+    <string name="grid_button_G04">G04</string>
+</resources>
